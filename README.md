@@ -24,7 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 NAME : P JANARDHAN
 REGISTER NUMBER : 212224040128
 ```
-```
+```python
 import numpy as np
 import math
 import matplotlib.pyplot as plt
